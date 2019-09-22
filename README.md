@@ -13,5 +13,5 @@ Classification of X-Rays (Normal or Pneumonia) using Transfer Learning
     
 # Result
  - 62% of Test data correct classified
- - Train Accuracy significant higher than Val. Accuracy -> indication for overfitting
+ - Train Accuracy significant higher than Val. Accuracy -> Indication for overfitting
     
