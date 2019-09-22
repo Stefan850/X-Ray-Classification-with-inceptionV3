@@ -1,6 +1,8 @@
 # X-Ray-Classification-with-inceptionV3
 Classification of X-Rays (Normal or Pneumonia) using Transfer Learning
 
+![Example](https://github.com/Stefan850/X-Ray-Classification-with-inceptionV3/blob/master/example.png)
+
 [Link to Example with Dataset](https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning)
 
 # Getting Started
@@ -10,5 +12,6 @@ Classification of X-Rays (Normal or Pneumonia) using Transfer Learning
  - Try new combinations of Layers (Dense, Dropout)
     
 # Result
- - ddd
+ - 62% of Test data correct classified
+ - Train Accuracy significant higher than Val. Accuracy -> indication for overfitting
     
